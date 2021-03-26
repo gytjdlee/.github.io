@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://gytjdlee.github.io/
+  - title: "About"
+    url: https://gytjdlee.github.io/about
+  - title: "mysql"
+    url: https://gytjdlee.github.io/mysql
+  - title: "redis"
+    url: https://gytjdlee.github.io/redis
+  - title: "mongodb"
+    url: https://gytjdlee.github.io/mongodb
+  - title: "develop"
+    url: https://gytjdlee.github.io/develop
+  - title: "os"
+    url: https://gytjdlee.github.io/os
+  - title: "network"
+    url: https://gytjdlee.github.io/network
+  - title: "etc"
+    url: https://gytjdlee.github.io/etc
+  # - title: "Sitemap"
+  #   url: /sitemap/
