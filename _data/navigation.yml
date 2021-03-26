@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://gytjdlee.github.io/
   - title: "About"
     url: https://gytjdlee.github.io/about
   - title: "mysql"
