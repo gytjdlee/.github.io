@@ -1,8 +1,9 @@
 ---
-title: "Welcome to Jekyll!"
+title: "first post"
 date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+categories: mysql redis
 ---
+반갑다. 첫포스팅이다. 어떤지좀 볼까.
 You’ll find this post in your `_posts` directory.
 Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
