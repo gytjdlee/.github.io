@@ -280,3 +280,50 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _mysql
+  - scope:
+      path: "_mysql"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  # _redis
+  - scope:
+      path: "_redis"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  # _mongodb
+  - scope:
+      path: "_mongodb"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  # _develop
+  - scope:
+      path: "_develop"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  # _os
+  - scope:
+      path: "_os"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      related: true
+  # _network
+  - scope:
+      path: "_network"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
